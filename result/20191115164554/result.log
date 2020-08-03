@@ -1,8 +1,0 @@
-2019-11-15 16:45:55,109 - root - INFO - ****************TEST START*********************
-2019-11-15 16:45:56,109 - root - INFO - 执行case
-2019-11-15 16:45:56,111 - root - INFO - 开始执行：AutoPaike_0
-2019-11-15 16:46:21,388 - root - INFO - 异常原因：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="teach-plan-box___1eL_V"]/div[1]/ul/li[3]/descendant::span[@class="c_input_title___1vADM"]"}
-  (Session info: chrome=78.0.3904.87)
-  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.14393 x86_64)
-
-2019-11-15 16:46:21,769 - root - INFO - ****************TEST END*********************

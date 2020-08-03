@@ -1,9 +1,0 @@
-2019-11-15 09:40:40,342 - root - INFO - ****************TEST START*********************
-2019-11-15 09:40:41,343 - root - INFO - 执行case
-2019-11-15 09:40:41,343 - root - INFO - 开始执行：AutoPaike_0
-2019-11-15 09:40:50,125 - root - INFO - 异常原因：Message: invalid selector: Unable to locate an element with the xpath expression //div[@class="modal-centent___1VrId modal-centent nm-modal"]/descendant::lable[contains(text()="年级")] because of the following error:
-SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[@class="modal-centent___1VrId modal-centent nm-modal"]/descendant::lable[contains(text()="年级")]' is not a valid XPath expression.
-  (Session info: chrome=78.0.3904.87)
-  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.14393 x86_64)
-
-2019-11-15 09:40:50,490 - root - INFO - ****************TEST END*********************

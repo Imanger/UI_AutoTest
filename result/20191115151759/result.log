@@ -1,5 +1,0 @@
-2019-11-15 15:17:59,347 - root - INFO - ****************TEST START*********************
-2019-11-15 15:18:00,347 - root - INFO - 执行case
-2019-11-15 15:18:00,347 - root - INFO - 开始执行：AutoPaike_0
-2019-11-15 15:18:14,728 - root - INFO - 异常原因：'NoneType' object has no attribute 'click'
-2019-11-15 15:18:14,735 - root - INFO - ****************TEST END*********************

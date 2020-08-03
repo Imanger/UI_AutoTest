@@ -5,7 +5,7 @@ from sshtunnel import SSHTunnelForwarder
 
 host = "192.168.20.75"
 port = 61306
-user = "lekeEduAdmin"
+user = "xx"
 passwd = "Q2wtjmuz"
 charset = "utf8"
 

@@ -1,6 +1,0 @@
-2019-11-06 11:25:11,136 - root - INFO - ****************TEST START*********************
-2019-11-06 11:25:12,137 - root - INFO - 执行case
-2019-11-06 11:25:12,137 - root - INFO - 开始执行：EboardReport_0
-2019-11-06 11:25:29,186 - root - INFO - 开始断言：EboardReport_0
-2019-11-06 11:25:34,148 - root - ERROR - (554, b'DT:SPM 163 smtp8,DMCowACnGeUtPcJdh6idSA--.23626S2 1573010734,please see http://mail.163.com/help/help_spam_16.htm?ip=115.236.48.202&hostid=smtp8&time=1573010734')
-2019-11-06 11:25:34,149 - root - INFO - ****************TEST END*********************

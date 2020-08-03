@@ -5,8 +5,648 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="831ed31c-576f-4e3a-aab9-1d700468eb1c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/python-/file/lesson/auto_paike/upload行政班.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-/file/lesson/auto_paike/upload走班.exe" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cnstrong.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cnstrong.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comm/getDataFromJumpServer.py" beforeDir="false" afterPath="$PROJECT_DIR$/comm/getDataFromJumpServer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comm/getDataFromMysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/comm/getDataFromMysql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comm/sendEmail.py" beforeDir="false" afterPath="$PROJECT_DIR$/comm/sendEmail.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/course/create/CreateLiveCourse.xls" beforeDir="false" afterPath="$PROJECT_DIR$/file/course/create/CreateLiveCourse.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191104100621/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191104100621/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191104100931/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191104100931/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191104104225/EboardLogin_0_20191104_104237.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191104104225/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191104104225/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105094915/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105094915/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105113333/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105113333/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105140125/EboardLeave_20191105_140201.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105140125/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105140125/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105140227/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105140227/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105141025/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105141025/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105141218/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105141218/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105141333/EboardLeave_20191105_141552.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105141333/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105141333/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105141557/EboardLeave_20191105_141622.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105141557/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105141557/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105142332/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105142332/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105142556/EboardLeave_20191105_142621.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105142556/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105142556/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105142911/EboardLeave_20191105_142936.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105142911/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105142911/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105143105/EboardLeave_20191105_143130.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105143105/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105143105/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105144914/EboardLeave_20191105_145129.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105144914/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105144914/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105145201/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105145201/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105145306/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105145306/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105145629/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105145629/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105145741/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105145741/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105150041/EboardLeave_20191105_150115.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105150041/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105150041/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105150150/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191105150150/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106112319/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106112319/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106112511/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106112511/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106112851/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106112851/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106113300/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106113300/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106113707/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106113707/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106114012/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106114012/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106114300/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106114300/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106114538/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106114538/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106114737/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106114737/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106115112/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106115112/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106115212/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106115212/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106140420/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106140420/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106140643/EboardReport_0_20191106_140709.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106140643/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106140643/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106140817/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106140817/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106140927/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106140927/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106141143/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106141143/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106141216/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106141216/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106141418/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106141418/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106141635/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106141635/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106142258/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106142258/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106142559/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106142559/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106143543/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106143543/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106143701/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106143701/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106144049/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106144049/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106144341/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106144341/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106144424/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106144424/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106204013/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191106204013/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191107092408/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191107092408/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191107153016/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191107153016/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191107153445/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191107153445/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191107154002/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191107154002/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191107154104/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191107154104/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191107154429/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191107154429/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191107154527/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191107154527/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191107154942/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191107154942/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191107155145/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191107155145/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191107155419/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191107155419/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191107155548/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191107155548/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112145053/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112145053/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112145333/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112145333/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112145457/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112145457/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112145944/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112145944/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112150006/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112150006/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112150020/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112150020/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112150444/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112150444/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112151430/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112151430/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112151533/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112151533/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112151610/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112151610/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112151811/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112151811/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112151831/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112151831/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112154105/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112154105/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112154141/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112154141/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112154355/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112154355/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112154450/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112154450/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112154516/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112154516/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112154724/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112154724/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112154838/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112154838/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112154954/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112154954/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112155426/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112155426/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112155612/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112155612/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112160030/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112160030/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112160220/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112160220/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112160620/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112160620/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112160708/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112160708/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112161356/AutoPaike_0_20191112_161404.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112161356/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112161356/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112161415/AutoPaike_0_20191112_161422.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112161415/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112161415/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112161430/AutoPaike_0_20191112_161436.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112161430/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112161430/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112162021/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112162021/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112162316/AutoPaike_0_20191112_162323.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112162316/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112162316/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112162512/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112162512/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112162620/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112162620/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112162658/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112162658/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112163058/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112163058/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112163134/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112163134/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112163205/AutoPaike_0_20191112_163212.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112163205/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112163205/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112163219/AutoPaike_0_20191112_163225.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112163219/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112163219/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112163236/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112163236/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112163334/AutoPaike_0_20191112_163341.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112163334/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112163334/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112163356/AutoPaike_0_20191112_163402.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112163356/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112163356/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112163422/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112163422/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112163457/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112163457/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112163513/AutoPaike_0_20191112_163520.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112163513/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112163513/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112172119/AutoPaike_0_20191112_172125.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112172119/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112172119/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112172154/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112172154/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112172516/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112172516/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112172614/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112172614/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112172743/AutoPaike_0_20191112_172749.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112172743/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112172743/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112172849/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112172849/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112173730/AutoPaike_0_20191112_173750.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112173730/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112173730/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112173839/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112173839/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112173856/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191112173856/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113102233/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113102233/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113103600/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113103600/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113104758/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113104758/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113110837/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113110837/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113110944/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113110944/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113111029/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113111029/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113111200/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113111207/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113111207/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113111338/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113111338/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113111452/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113111452/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113111527/AutoPaike_0_20191113_111543.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113111527/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113111527/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113153118/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113153118/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113153206/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113153206/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113153339/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113153339/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113163522/AutoPaike_0_20191113_163603.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113163522/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113163522/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113163700/AutoPaike_0_20191113_163724.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113163700/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113163700/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113163825/AutoPaike_0_20191113_163848.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113163825/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113163825/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113163918/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113163918/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113172833/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113172833/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113173021/AutoPaike_0_20191113_173047.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113173021/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113173021/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113173133/AutoPaike_0_20191113_173158.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113173133/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113173133/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113173827/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113173827/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113173908/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113173908/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113174002/AutoPaike_0_20191113_174017.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113174002/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113174002/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113174142/AutoPaike_0_20191113_174207.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113174142/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113174142/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113174220/AutoPaike_0_20191113_174246.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113174220/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113174220/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113174304/AutoPaike_0_20191113_174330.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113174304/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113174304/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113174533/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113174533/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113174705/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113174705/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113174750/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113174750/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113175032/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113175032/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113175108/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191113175108/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191114165834/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191114165834/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115092823/AutoPaike_0_20191115_092844.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115092823/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115092823/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115093108/AutoPaike_0_20191115_093119.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115093108/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115093108/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115093203/AutoPaike_0_20191115_093214.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115093203/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115093203/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115093451/AutoPaike_0_20191115_093502.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115093451/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115093451/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115093524/AutoPaike_0_20191115_093534.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115093524/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115093524/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115093649/AutoPaike_0_20191115_093659.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115093649/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115093649/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115094013/AutoPaike_0_20191115_094023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115094013/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115094013/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115094040/AutoPaike_0_20191115_094050.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115094040/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115094040/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115094206/AutoPaike_0_20191115_094226.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115094206/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115094206/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115094253/AutoPaike_0_20191115_094313.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115094253/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115094253/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115094531/AutoPaike_0_20191115_094541.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115094531/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115094531/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115094605/AutoPaike_0_20191115_094615.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115094605/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115094605/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115104014/AutoPaike_0_20191115_104035.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115104014/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115104014/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115112021/AutoPaike_0_20191115_112041.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115112021/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115112021/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115112057/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115112057/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115112124/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115112124/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115112342/AutoPaike_0_20191115_112402.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115112342/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115112342/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115112524/AutoPaike_0_20191115_112545.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115112524/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115112524/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115112747/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115112747/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115112807/AutoPaike_0_20191115_112829.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115112807/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115112807/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115113204/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115113204/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115151734/AutoPaike_0_20191115_151754.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115151734/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115151734/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115151759/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115151759/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115151833/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115151833/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115151933/AutoPaike_0_20191115_151952.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115151933/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115151933/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115152019/AutoPaike_0_20191115_152038.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115152019/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115152019/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115152045/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115152045/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115152747/AutoPaike_0_20191115_152757.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115152747/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115152747/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115152829/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115152829/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115152918/AutoPaike_0_20191115_152940.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115152918/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115152918/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115153357/AutoPaike_0_20191115_153409.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115153357/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115153357/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115153546/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115153546/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115154158/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115154158/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115154227/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115154227/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115154304/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115154304/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115154350/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115154350/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115154422/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115154422/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115154444/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115154444/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115164554/AutoPaike_0_20191115_164621.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115164554/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115164554/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115165305/AutoPaike_0_20191115_165334.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115165305/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115165305/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115165426/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191115165426/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203100754/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203101848/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203102056/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203102714/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203103604/AutoPaike_0_20191203_103625.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203103604/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203103828/AutoPaike_0_20191203_103849.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203103828/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203104034/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203110635/AutoPaike_0_20191203_110656.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203110635/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203110710/AutoPaike_0_20191203_110731.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203110710/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203110824/AutoPaike_0_20191203_110857.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203110824/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203144419/AutoPaike_0_20191203_144439.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203144419/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203144446/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203155714/AutoPaike_0_20191203_155734.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203155714/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203155755/AutoPaike_0_20191203_155845.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203155755/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203160807/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203160827/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203160844/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203160939/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203160955/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203160955/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203161855/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191203161855/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206141451/AutoPaike_0_20191206_141616.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206141451/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206141451/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206143454/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206143459/AutoPaike_0_20191206_143526.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206143459/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206143459/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206143605/AutoPaike_0_20191206_143626.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206143605/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206143605/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206144539/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206144616/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206144837/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206144837/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206144855/AutoPaike_0_20191206_145114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206144855/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206144855/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206145217/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206145217/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206145250/AutoPaike_0_20191206_145542.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206145250/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206145250/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206145623/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206145637/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206145827/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206145838/AutoPaike_0_20191206_145901.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206145838/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206145838/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206145917/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206145917/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206150058/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206150134/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206150134/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206150932/AutoPaike_0_20191206_151045.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206150932/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206150932/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206151107/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206151547/AutoPaike_0_20191206_151700.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206151547/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206151547/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206151939/AutoPaike_0_20191206_153346.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206151939/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206151939/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206174535/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206175403/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206180346/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206180353/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191206180408/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210113911/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210114055/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210114147/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210114225/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210114238/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210114308/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210114324/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210114459/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210114515/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210114529/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210114541/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210114611/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210115248/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210115254/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210151815/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210154830/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210154830/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210155316/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210155316/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210155640/AutoPaike_0_20191210_155756.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210155640/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210155640/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210155837/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210155837/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210160202/AutoPaike_0_20191210_160229.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210160202/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210160202/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210160243/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210160243/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210160550/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210160550/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210162716/AutoPaike_0_20191210_162743.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210162716/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210162716/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210162840/AutoPaike_0_20191210_162934.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210162840/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210162840/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210163010/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210163010/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210163154/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210163154/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210163420/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210163420/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210193951/AutoPaike_0_20191210_194123.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210193951/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210193951/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210194207/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210194207/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210194554/AutoPaike_0_20191210_194926.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210194554/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210194554/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210194945/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210194945/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210195330/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210195520/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210195822/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210195859/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210195953/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210200038/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210200114/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210200204/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210200222/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210200254/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210200340/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210200357/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210200614/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210200706/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210200727/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210200824/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210200846/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210200938/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210201002/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210201259/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210201531/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210201601/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210201601/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210201726/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210201726/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210201901/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210201949/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210202008/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210202239/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210202554/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210202813/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210202827/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210203124/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210203201/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210203258/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210203303/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210203424/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210203434/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210203647/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210203657/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210203721/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210203738/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210203805/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210203830/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210203836/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210203916/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210203928/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210203950/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210203957/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210204014/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210204100/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210204211/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210204327/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210204352/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210204423/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191210204526/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191211102421/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191211102828/AutoPaike_0_20191211_102850.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191211102828/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191211102828/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191211102915/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191211102915/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191211110505/AutoPaike_0_20191211_110701.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191211110505/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191211110505/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191211110717/AutoPaike_0_20191211_202627.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191211110717/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191211110717/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191213142541/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20191213142541/result.log" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,37 +655,37 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/cnstrong$py_test_in_demo_py.coverage" NAME="py.test in demo.py Coverage Results" MODIFIED="1565941643361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/lesson/auto_paike/testCase" />
-    <SUITE FILE_PATH="coverage/cnstrong$py_test_for_demo_Test_setUp.coverage" NAME="py.test for demo.Test.setUp Coverage Results" MODIFIED="1565941637236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/lesson/auto_paike/testCase" />
-    <SUITE FILE_PATH="coverage/Cnstrong$Unittests_for_testAutoPaike_AutoPaike_testPaikeLogin.coverage" NAME="Unittests for testAutoPaike.AutoPaike.testPaikeLogin Coverage Results" MODIFIED="1573614720331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/lesson/auto_paike/testCase" />
+    <SUITE FILE_PATH="coverage/cnstrong$py_test_for_testLekeLogin_LekeLogin.coverage" NAME="py.test for testLekeLogin.LekeLogin Coverage Results" MODIFIED="1571388555139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/tutor/do/testCase" />
+    <SUITE FILE_PATH="coverage/cnstrong$Unittests_in_testLekeLogin_py.coverage" NAME="Unittests in testLekeLogin.py Coverage Results" MODIFIED="1565677064879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/tutor/do/testCase" />
+    <SUITE FILE_PATH="coverage/cnstrong$Unittests_for_testLekeLogin_LekeLogin_testLekeLogin.coverage" NAME="Unittests for testLekeLogin.LekeLogin.testLekeLogin Coverage Results" MODIFIED="1565661809100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/tutor/do/testCase" />
+    <SUITE FILE_PATH="coverage/cnstrong$readConfig.coverage" NAME="readConfig Coverage Results" MODIFIED="1565836488325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Cnstrong$readConfig.coverage" NAME="readConfig Coverage Results" MODIFIED="1573008996169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Cnstrong$html.coverage" NAME="html响应结果解析 Coverage Results" MODIFIED="1576031061053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cnstrong$py_test_in_testEboard_py.coverage" NAME="py.test in testEboard.py Coverage Results" MODIFIED="1571384825328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/eboard/testEboard" />
-    <SUITE FILE_PATH="coverage/cnstrong$runAll.coverage" NAME="runAll Coverage Results" MODIFIED="1572508538031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cnstrong$py_test_for_demo_Test_setUp.coverage" NAME="py.test for demo.Test.setUp Coverage Results" MODIFIED="1565941637236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/lesson/auto_paike/testCase" />
+    <SUITE FILE_PATH="coverage/cnstrong$runSet__1_.coverage" NAME="runSet (1) Coverage Results" MODIFIED="1565667935363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comm" />
+    <SUITE FILE_PATH="coverage/cnstrong$Unittests_for_testLekeLogin_LekeLogin.coverage" NAME="Unittests for testLekeLogin.LekeLogin Coverage Results" MODIFIED="1565661770005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/tutor/do/testCase" />
+    <SUITE FILE_PATH="coverage/Cnstrong$getHTMLResponse.coverage" NAME="getHTMLResponse Coverage Results" MODIFIED="1575962294304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comm" />
     <SUITE FILE_PATH="coverage/Cnstrong$Unittests_for_testAutoPaike_AutoPaike_testShouKe.coverage" NAME="Unittests for testAutoPaike.AutoPaike.testShouKe Coverage Results" MODIFIED="1575614094161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/lesson/auto_paike/testCase" />
     <SUITE FILE_PATH="coverage/cnstrong$location.coverage" NAME="location Coverage Results" MODIFIED="1571629105274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comm" />
-    <SUITE FILE_PATH="coverage/Cnstrong$readConfig.coverage" NAME="readConfig Coverage Results" MODIFIED="1573008996169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cnstrong$py_test_for_demo_Test.coverage" NAME="py.test for demo.Test Coverage Results" MODIFIED="1565941759066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/lesson/auto_paike/testCase" />
-    <SUITE FILE_PATH="coverage/cnstrong$py_test_for_testEboard_EboardLogin.coverage" NAME="py.test for testEboard.EboardLogin Coverage Results" MODIFIED="1571649184667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/eboard/testEboard" />
-    <SUITE FILE_PATH="coverage/cnstrong$Unittests_in_common_py.coverage" NAME="Unittests in common.py Coverage Results" MODIFIED="1564734146304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
-    <SUITE FILE_PATH="coverage/Cnstrong$runAll.coverage" NAME="runAll Coverage Results" MODIFIED="1576218340409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cnstrong$testLekeLogin.coverage" NAME="testLekeLogin Coverage Results" MODIFIED="1565689545758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/tutor/do/testCase" />
+    <SUITE FILE_PATH="coverage/cnstrong$runAll.coverage" NAME="runAll Coverage Results" MODIFIED="1572508538031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Cnstrong$demo.coverage" NAME="demo Coverage Results" MODIFIED="1575626147357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cnstrong$common.coverage" NAME="common Coverage Results" MODIFIED="1564734799184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/Cnstrong$Unittests_in_testAutoPaike_py.coverage" NAME="Unittests in testAutoPaike.py Coverage Results" MODIFIED="1575359873621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/lesson/auto_paike/testCase" />
     <SUITE FILE_PATH="coverage/cnstrong$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1570607965887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cnstrong$Unittests_in_testLekeLogin_py.coverage" NAME="Unittests in testLekeLogin.py Coverage Results" MODIFIED="1565677064879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/tutor/do/testCase" />
+    <SUITE FILE_PATH="coverage/Cnstrong$Unittests_for_testAutoPaike_AutoPaike_testPaikeLogin.coverage" NAME="Unittests for testAutoPaike.AutoPaike.testPaikeLogin Coverage Results" MODIFIED="1573614720331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/lesson/auto_paike/testCase" />
+    <SUITE FILE_PATH="coverage/cnstrong$py_test_in_demo_py.coverage" NAME="py.test in demo.py Coverage Results" MODIFIED="1565941643361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/lesson/auto_paike/testCase" />
     <SUITE FILE_PATH="coverage/cnstrong$runSet.coverage" NAME="runSet Coverage Results" MODIFIED="1565602408299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
-    <SUITE FILE_PATH="coverage/cnstrong$py_test_for_testLekeLogin_LekeLogin.coverage" NAME="py.test for testLekeLogin.LekeLogin Coverage Results" MODIFIED="1571388555139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/tutor/do/testCase" />
-    <SUITE FILE_PATH="coverage/cnstrong$Unittests_for_testLekeLogin_LekeLogin.coverage" NAME="Unittests for testLekeLogin.LekeLogin Coverage Results" MODIFIED="1565661770005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/tutor/do/testCase" />
-    <SUITE FILE_PATH="coverage/cnstrong$Unittests_for_testLekeLogin_LekeLogin_testLekeLogin.coverage" NAME="Unittests for testLekeLogin.LekeLogin.testLekeLogin Coverage Results" MODIFIED="1565661809100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/tutor/do/testCase" />
-    <SUITE FILE_PATH="coverage/cnstrong$picture.coverage" NAME="picture Coverage Results" MODIFIED="1569491658171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Cnstrong$getHTMLResponse.coverage" NAME="getHTMLResponse Coverage Results" MODIFIED="1575962294304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comm" />
-    <SUITE FILE_PATH="coverage/cnstrong$runSet__1_.coverage" NAME="runSet (1) Coverage Results" MODIFIED="1565667935363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comm" />
-    <SUITE FILE_PATH="coverage/cnstrong$readConfig.coverage" NAME="readConfig Coverage Results" MODIFIED="1565836488325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cnstrong$Unittests_for_testLekeLogin_LekeLogin_setUp.coverage" NAME="Unittests for testLekeLogin.LekeLogin.setUp Coverage Results" MODIFIED="1565661044709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/tutor/do/testCase" />
+    <SUITE FILE_PATH="coverage/cnstrong$Unittests_in_common_py.coverage" NAME="Unittests in common.py Coverage Results" MODIFIED="1564734146304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/Cnstrong$runAll.coverage" NAME="runAll Coverage Results" MODIFIED="1576218340409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cnstrong$py_test_in_testEboard_py.coverage" NAME="py.test in testEboard.py Coverage Results" MODIFIED="1571384825328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/eboard/testEboard" />
     <SUITE FILE_PATH="coverage/cnstrong$demo.coverage" NAME="demo Coverage Results" MODIFIED="1572506851494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cnstrong$py_test_for_demo_Test.coverage" NAME="py.test for demo.Test Coverage Results" MODIFIED="1565941759066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/lesson/auto_paike/testCase" />
+    <SUITE FILE_PATH="coverage/cnstrong$py_test_for_testEboard_EboardLogin.coverage" NAME="py.test for testEboard.EboardLogin Coverage Results" MODIFIED="1571649184667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/eboard/testEboard" />
+    <SUITE FILE_PATH="coverage/cnstrong$Unittests_for_testLekeLogin_LekeLogin_setUp.coverage" NAME="Unittests for testLekeLogin.LekeLogin.setUp Coverage Results" MODIFIED="1565661044709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/tutor/do/testCase" />
+    <SUITE FILE_PATH="coverage/cnstrong$picture.coverage" NAME="picture Coverage Results" MODIFIED="1569491658171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cnstrong$picture__1_.coverage" NAME="picture (1) Coverage Results" MODIFIED="1569497452565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIL" />
     <SUITE FILE_PATH="coverage/Cnstrong$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1573614693277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/lesson/auto_paike/testCase" />
-    <SUITE FILE_PATH="coverage/cnstrong$testLekeLogin.coverage" NAME="testLekeLogin Coverage Results" MODIFIED="1565689545758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/tutor/do/testCase" />
-    <SUITE FILE_PATH="coverage/Cnstrong$Unittests_in_testAutoPaike_py.coverage" NAME="Unittests in testAutoPaike.py Coverage Results" MODIFIED="1575359873621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/lesson/auto_paike/testCase" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -62,22 +702,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/case/lesson/auto_paike/testCase/testAutoPaike.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4450">
-              <caret line="201" column="27" selection-start-line="201" selection-start-column="27" selection-end-line="201" selection-end-column="27" />
-              <folding>
-                <element signature="e#24#54#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/comm/location.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="64" column="14" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="14" />
+            <state relative-caret-position="680">
+              <caret line="34" column="12" lean-forward="true" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
               <folding>
                 <element signature="e#34#45#0" expanded="true" />
               </folding>
@@ -85,11 +713,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Python36/Lib/unittest/case.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14775">
-              <caret line="604" selection-start-line="604" selection-end-line="604" />
+            <state relative-caret-position="460">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/comm/sendEmail.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="636">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/comm/common.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-224">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#24#33#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -97,7 +749,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/comm/getHTMLResponse.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="950">
+            <state relative-caret-position="799">
               <caret line="44" selection-start-line="44" selection-end-line="44" />
               <folding>
                 <element signature="e#15#36#0" expanded="true" />
@@ -107,40 +759,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Python36/Lib/codecs.py">
+        <entry file="file://$PROJECT_DIR$/comm/element.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7550">
-              <caret line="302" column="7" selection-start-line="302" selection-start-column="7" selection-end-line="302" selection-end-column="7" />
+            <state relative-caret-position="240">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+        <entry file="file://$PROJECT_DIR$/comm/getDataFromJumpServer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/runAll.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
-              <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
-              <folding>
-                <element signature="e#24#57#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/comm/sendEmail.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+            <state relative-caret-position="140">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -149,10 +780,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/comm/getDataFromMongo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/comm/getDataFromMysql.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1600">
-              <caret line="65" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="140">
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
               <folding>
                 <element signature="e#24#38#0" expanded="true" />
               </folding>
@@ -161,15 +801,8 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html响应结果解析.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1025">
-              <caret line="46" column="11" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
-              <folding>
-                <element signature="e#15#36#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/file/course/create/coursePhoto.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -220,7 +853,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/python-" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/readConfig.py" root0="SKIP_INSPECTION" />
@@ -248,9 +881,7 @@
         <option value="$PROJECT_DIR$/case/eboard/testEboard/testEboard.py" />
         <option value="$PROJECT_DIR$/case/eboard/testEboard/time.js" />
         <option value="$PROJECT_DIR$/case/eboard/testEboard/testEboardLogin.py" />
-        <option value="$PROJECT_DIR$/comm/getDataFromJumpServer.py" />
         <option value="$PROJECT_DIR$/case/eboard/testEboard/testEboardReport.py" />
-        <option value="$PROJECT_DIR$/comm/getDataFromMysql.py" />
         <option value="$PROJECT_DIR$/readConfig.py" />
         <option value="$PROJECT_DIR$/case/lesson/auto_paike/testCase/teskAutoPaike.py" />
         <option value="$PROJECT_DIR$/caseList.txt" />
@@ -259,20 +890,21 @@
         <option value="$APPLICATION_CONFIG_DIR$/pycharm64.exe.vmoptions" />
         <option value="$PROJECT_DIR$/comm/common.py" />
         <option value="$PROJECT_DIR$/case/eboard/testEboard/testEboardLeave.py" />
-        <option value="$PROJECT_DIR$/comm/sendEmail.py" />
         <option value="$PROJECT_DIR$/demo.py" />
         <option value="$PROJECT_DIR$/runAll.py" />
         <option value="$PROJECT_DIR$/html响应结果解析.py" />
         <option value="$PROJECT_DIR$/comm/getHTMLResponse.py" />
         <option value="$PROJECT_DIR$/case/lesson/auto_paike/testCase/testAutoPaike.py" />
+        <option value="$PROJECT_DIR$/comm/sendEmail.py" />
+        <option value="$PROJECT_DIR$/comm/getDataFromJumpServer.py" />
+        <option value="$PROJECT_DIR$/comm/getDataFromMysql.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="101" />
-    <option name="y" value="11" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-1920" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -280,30 +912,70 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Cnstrong" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cnstrong" type="462c0819:PsiDirectoryNode" />
+              <item name="UI_AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UI_AutoTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Cnstrong" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cnstrong" type="462c0819:PsiDirectoryNode" />
+              <item name="UI_AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UI_AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="case" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UI_AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UI_AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="case" type="462c0819:PsiDirectoryNode" />
+              <item name="eboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UI_AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UI_AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="case" type="462c0819:PsiDirectoryNode" />
+              <item name="eboard" type="462c0819:PsiDirectoryNode" />
+              <item name="testEboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UI_AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UI_AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="case" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UI_AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UI_AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="case" type="462c0819:PsiDirectoryNode" />
+              <item name="tutor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UI_AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UI_AutoTest" type="462c0819:PsiDirectoryNode" />
               <item name="comm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UI_AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UI_AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UI_AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UI_AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="result" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/python/cnstrong/case/lesson/auto_paike/testCase/teskAutoPaike.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -524,6 +1196,7 @@
       <workItem from="1576116351718" duration="11510000" />
       <workItem from="1576460795763" duration="601000" />
       <workItem from="1583484282031" duration="809000" />
+      <workItem from="1596425961828" duration="1441000" />
     </task>
     <servers />
   </component>
@@ -560,7 +1233,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150080000" />
+    <option name="totallyTimeSpent" value="151521000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -572,10 +1245,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1920" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13539445" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17826553" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -633,11 +1306,6 @@
           <line>8</line>
           <option name="timeStamp" value="123" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/demo.py</url>
-          <line>207</line>
-          <option name="timeStamp" value="128" />
-        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -649,9 +1317,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://F:/Python36/Lib/http/client.py" />
-    <entry file="file://F:/Python36/Lib/multiprocessing/context.py" />
-    <entry file="file://F:/Python36/Lib/site-packages/selenium/webdriver/remote/webdriver.py" />
     <entry file="file://$PROJECT_DIR$/config.ini">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
@@ -687,13 +1352,6 @@
     <entry file="file://$PROJECT_DIR$/leke/add.py" />
     <entry file="file://$PROJECT_DIR$/leke/关键字.txt" />
     <entry file="file://$PROJECT_DIR$/leke/测试集.robot" />
-    <entry file="file://$PROJECT_DIR$/comm/getDataFromMongo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/pycharm64.exe.vmoptions" />
     <entry file="file://$PROJECT_DIR$/case/lesson/auto_paike/testCase/demo.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -705,60 +1363,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readConfig.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="40" selection-start-line="6" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Python36/Lib/HTMLTestReportCN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="572" selection-start-line="572" selection-end-line="572" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Python36/Lib/unittest/suite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2318">
-          <caret line="125" selection-start-line="125" selection-end-line="125" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Python36/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12388">
-          <caret line="668" selection-start-line="668" selection-end-line="668" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Python36/Lib/site-packages/urllib3/request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/caseList.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Python36/Lib/contextlib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2926">
-          <caret line="158" selection-start-line="158" selection-end-line="158" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python36/Lib/HTMLTestReportCN.py" />
+    <entry file="file://$PROJECT_DIR$/../Python36/Lib/unittest/suite.py" />
+    <entry file="file://$PROJECT_DIR$/../Python36/Lib/site-packages/selenium/webdriver/remote/webdriver.py" />
+    <entry file="file://$PROJECT_DIR$/../Python36/Lib/site-packages/urllib3/request.py" />
+    <entry file="file://$PROJECT_DIR$/../Python36/Lib/contextlib.py" />
     <entry file="file://$PROJECT_DIR$/case/eboard/testEboard/testEboardReport.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
@@ -780,16 +1389,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1159">
           <caret line="66" column="22" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/comm/common.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-233">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#24#33#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -820,36 +1419,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/comm/getDataFromJumpServer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/comm/element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4826">
-          <caret line="258" column="11" selection-start-line="258" selection-end-line="259" />
-          <folding>
-            <element signature="e#3255#3276#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python36/Lib/unittest/case.py" />
+    <entry file="file://$PROJECT_DIR$/../Python36/Lib/codecs.py" />
     <entry file="file://$PROJECT_DIR$/case/lesson/auto_paike/testCase/testAutoPaike.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4450">
+        <state relative-caret-position="3560">
           <caret line="201" column="27" selection-start-line="201" selection-start-column="27" selection-end-line="201" selection-end-column="27" />
           <folding>
             <element signature="e#24#54#0" expanded="true" />
@@ -857,51 +1431,124 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Python36/Lib/unittest/case.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14775">
-          <caret line="604" selection-start-line="604" selection-end-line="604" />
+        <state relative-caret-position="340">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/comm/getHTMLResponse.py">
+    <entry file="file://$PROJECT_DIR$/runAll.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="800">
+          <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+          <folding>
+            <element signature="e#24#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="244" column="11" lean-forward="true" selection-start-line="244" selection-start-column="11" selection-end-line="244" selection-end-column="11" />
+          <folding>
+            <element signature="e#3255#3276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/caseList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geckodriver.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html响应结果解析.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="46" column="11" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
           <folding>
             <element signature="e#15#36#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Python36/Lib/codecs.py">
+    <entry file="file://$PROJECT_DIR$/readConfig.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7550">
-          <caret line="302" column="7" selection-start-line="302" selection-start-column="7" selection-end-line="302" selection-end-column="7" />
+        <state relative-caret-position="480">
+          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+    <entry file="file://$PROJECT_DIR$/file/course/create/coursePhoto.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comm/sendEmail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="636">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comm/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comm/element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comm/getDataFromJumpServer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comm/getDataFromMongo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/comm/getDataFromMysql.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1600">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        <state relative-caret-position="140">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
           <folding>
             <element signature="e#24#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html响应结果解析.py">
+    <entry file="file://$PROJECT_DIR$/comm/getHTMLResponse.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1025">
-          <caret line="46" column="11" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
+        <state relative-caret-position="799">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
           <folding>
             <element signature="e#15#36#0" expanded="true" />
           </folding>
@@ -910,31 +1557,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/comm/location.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="64" column="14" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="14" />
+        <state relative-caret-position="680">
+          <caret line="34" column="12" lean-forward="true" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
           <folding>
             <element signature="e#34#45#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/runAll.py">
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
-          <folding>
-            <element signature="e#24#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/comm/sendEmail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="460">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>

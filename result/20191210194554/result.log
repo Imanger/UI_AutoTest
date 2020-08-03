@@ -1,9 +1,0 @@
-2019-12-10 19:45:55,113 - root - INFO - ****************TEST START*********************
-2019-12-10 19:45:56,114 - root - INFO - 执行case
-2019-12-10 19:45:56,115 - root - INFO - 开始执行：AutoPaike_0
-2019-12-10 19:49:26,802 - root - INFO - 异常原因：dictionary update sequence element #0 has length 1; 2 is required
-2019-12-10 19:49:27,208 - root - INFO - ****************TEST END*********************
-2019-12-10 19:49:27,824 - root - INFO - 邮箱：972296345@qq.com,发送邮件成功! 
-
-2019-12-10 19:49:27,960 - root - INFO - 邮箱：1141347750@qq.com,发送邮件成功! 
-

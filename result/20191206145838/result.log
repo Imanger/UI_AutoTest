@@ -1,8 +1,0 @@
-2019-12-06 14:58:39,004 - root - INFO - ****************TEST START*********************
-2019-12-06 14:58:40,004 - root - INFO - 执行case
-2019-12-06 14:58:40,005 - root - INFO - 开始执行：AutoPaike_0
-2019-12-06 14:59:01,020 - root - INFO - 异常原因：Message: unknown error: Element <input type="checkbox" class="ant-checkbox-input" value=""> is not clickable at point (418, 459). Other element would receive the click: <div class="modal-bg___13g9E c-modal-bg"></div>
-  (Session info: chrome=78.0.3904.108)
-  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.14393 x86_64)
-
-2019-12-06 14:59:01,435 - root - INFO - ****************TEST END*********************

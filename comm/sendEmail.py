@@ -12,8 +12,8 @@ def send_email(result_report):
     with open(result_report,'r',encoding='utf-8')as f:
         mail_body = f.read()
 
-    sender = 'lzy972296345@163.com' #发件人
-    receiver = ['972296345@qq.com','1141347750@qq.com']
+    sender = 'xx@163.com' #发件人
+    receiver = ['xx@qq.com','xx@qq.com']
     #创建一个带附件的实例
     message = MIMEMultipart()
     message['From'] = sender
@@ -31,8 +31,8 @@ def send_email(result_report):
     att["Content-Disposition"] = 'attachment;filename="report.html"'
     message.attach(att)
 
-    user_name = 'lzy972296345@163.com' #邮箱名邮箱密码
-    passwd = 'Aa123456'
+    user_name = 'xx@163.com' #邮箱名邮箱密码
+    passwd = 'xx'
 
     #邮箱登录
     smtp = smtplib.SMTP()

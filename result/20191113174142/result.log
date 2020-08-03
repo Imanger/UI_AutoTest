@@ -1,8 +1,0 @@
-2019-11-13 17:41:42,200 - root - INFO - ****************TEST START*********************
-2019-11-13 17:41:43,200 - root - INFO - 执行case
-2019-11-13 17:41:43,201 - root - INFO - 开始执行：AutoPaike_0
-2019-11-13 17:42:07,161 - root - INFO - 异常原因：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="ant-tabs-content ant-tabs-content-animated"]/div[2]/child::button[1]"}
-  (Session info: chrome=78.0.3904.87)
-  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.14393 x86_64)
-
-2019-11-13 17:42:07,527 - root - INFO - ****************TEST END*********************

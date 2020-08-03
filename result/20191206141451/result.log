@@ -1,5 +1,0 @@
-2019-12-06 14:15:02,426 - root - INFO - ****************TEST START*********************
-2019-12-06 14:15:03,427 - root - INFO - 执行case
-2019-12-06 14:15:03,430 - root - INFO - 开始执行：AutoPaike_0
-2019-12-06 14:15:43,963 - root - INFO - 异常原因：<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:777)>
-2019-12-06 14:16:22,061 - root - INFO - ****************TEST END*********************

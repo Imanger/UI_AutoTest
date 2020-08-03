@@ -4,8 +4,8 @@ from sshtunnel import SSHTunnelForwarder
 def mysqlconn(sql):
 
     with SSHTunnelForwarder(
-        ('192.168.20.233', 8066),  # 跳板机地址
-        ssh_username='k_dep',
+        ('xxxx', 8066),  # 跳板机地址
+        ssh_username='xx',
         ssh_password='Q2wtjmuz',
         remote_bind_address=('192.168.20.76')) as tunnel:
 
