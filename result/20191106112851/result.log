@@ -1,0 +1,6 @@
+2019-11-06 11:28:51,324 - root - INFO - ****************TEST START*********************
+2019-11-06 11:28:52,325 - root - INFO - 执行case
+2019-11-06 11:28:52,326 - root - INFO - 开始执行：EboardReport_0
+2019-11-06 11:29:09,342 - root - INFO - 开始断言：EboardReport_0
+2019-11-06 11:30:34,068 - root - ERROR - (554, b'DT:SPM 163 smtp12,EMCowABXPYI3PsJdksXvAA--.21170S2 1573011002,please see http://mail.163.com/help/help_spam_16.htm?ip=115.236.48.202&hostid=smtp12&time=1573011002')
+2019-11-06 11:30:36,544 - root - INFO - ****************TEST END*********************

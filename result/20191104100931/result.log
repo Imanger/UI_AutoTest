@@ -1,0 +1,10 @@
+2019-11-04 10:09:31,283 - root - INFO - ****************TEST START*********************
+2019-11-04 10:09:32,283 - root - INFO - 执行case
+2019-11-04 10:09:32,283 - root - INFO - 开始执行：EboardLogin_0
+2019-11-04 10:09:43,295 - root - INFO - 开始断言：EboardLogin_0
+2019-11-04 10:09:49,303 - root - INFO - 异常原因：Message: chrome not reachable
+  (Session info: chrome=78.0.3904.87)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.14393 x86_64)
+
+2019-11-04 10:09:57,420 - root - INFO - 开始执行：EboardLogin_1
+2019-11-04 10:10:08,193 - root - INFO - 开始断言：EboardLogin_1

@@ -1,0 +1,4 @@
+2019-11-05 14:49:14,804 - root - INFO - ****************TEST START*********************
+2019-11-05 14:49:15,805 - root - INFO - 执行case
+2019-11-05 14:49:15,806 - root - INFO - 开始执行：EboardLeave
+2019-11-05 14:51:29,492 - root - INFO - 异常原因：int() argument must be a string, a bytes-like object or a number, not 'tuple'

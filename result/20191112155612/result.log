@@ -1,0 +1,4 @@
+2019-11-12 15:56:12,694 - root - INFO - ****************TEST START*********************
+2019-11-12 15:56:13,695 - root - INFO - 执行case
+2019-11-12 15:56:13,695 - root - INFO - 开始执行：AutoPaike_0
+2019-11-12 16:00:05,108 - root - INFO - 异常原因：'WebElement' object has no attribute 'sendkeys'

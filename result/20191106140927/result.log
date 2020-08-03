@@ -1,0 +1,11 @@
+2019-11-06 14:09:27,434 - root - INFO - ****************TEST START*********************
+2019-11-06 14:09:28,435 - root - INFO - 执行case
+2019-11-06 14:09:28,435 - root - INFO - 开始执行：EboardReport_0
+2019-11-06 14:09:53,727 - root - INFO - 异常原因：Alert Text: None
+Message: unexpected alert open
+  (Session info: chrome=78.0.3904.87)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.14393 x86_64)
+
+2019-11-06 14:09:55,999 - root - INFO - ****************TEST END*********************
+2019-11-06 14:10:09,515 - root - INFO - 邮箱：972296345@qq.com,发送邮件成功! 
+

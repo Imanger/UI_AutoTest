@@ -1,0 +1,8 @@
+2019-11-12 17:21:19,112 - root - INFO - ****************TEST START*********************
+2019-11-12 17:21:20,112 - root - INFO - 执行case
+2019-11-12 17:21:20,113 - root - INFO - 开始执行：AutoPaike_0
+2019-11-12 17:21:25,679 - root - INFO - 异常原因：Message: element not visible
+  (Session info: chrome=78.0.3904.87)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.14393 x86_64)
+
+2019-11-12 17:21:26,181 - root - INFO - ****************TEST END*********************

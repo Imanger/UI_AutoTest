@@ -1,0 +1,5 @@
+2019-12-03 11:07:10,705 - root - INFO - 开始执行：AutoPaike_0
+2019-12-03 11:07:31,861 - root - INFO - 异常原因：Message: unknown error: Element <button class="u-btn-bg-turquoise___e_Hc0 u-btn___1RHja nextStep-btn___37iZ6">...</button> is not clickable at point (1034, 646). Other element would receive the click: <div class="modal-bg___13g9E c-modal-bg"></div>
+  (Session info: chrome=78.0.3904.108)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.14393 x86_64)
+

@@ -1,0 +1,8 @@
+2019-11-15 15:27:47,934 - root - INFO - ****************TEST START*********************
+2019-11-15 15:27:48,935 - root - INFO - 执行case
+2019-11-15 15:27:48,935 - root - INFO - 开始执行：AutoPaike_0
+2019-11-15 15:27:57,225 - root - INFO - 异常原因：Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=78.0.3904.87)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.14393 x86_64)
+
+2019-11-15 15:27:57,630 - root - INFO - ****************TEST END*********************

@@ -1,0 +1,5 @@
+#tutor/do/testLekeLogin
+#eboard/testEboard/testEboardLogin
+#eboard/testEboard/testEboardReport
+#eboard/testEboard/testEboardLeave
+lesson/auto_paike/testCase/testAutoPaike
